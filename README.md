@@ -1,5 +1,26 @@
+# Informe-laboratorio-6
 
-# Informe-Lab-6
+## Fundamento de circuitos electricos
+
+### Ingeniero Darwin Omar Alulema Flores
+
+### Integrantes:
+•	Michael Bryan Toroche Quishpe 
+
+•	Jhon Steven Quingatuña Moreano
+
+•	 Anthony Javier Cevallos Ramirez
+
+# 1. OBJETIVOS
+
+
+### OBJETIVO GENERAL
+•
+
+
+
+# 2. MARCO TEORICO
+
 # 3. Explicacion procedimiento
 
 ![image](https://user-images.githubusercontent.com/116761073/211934331-8861620a-285c-4eb0-aebc-d27c103e6fe8.png)
@@ -49,3 +70,11 @@ RL= 3900
 RL= 4700
 
 ![image](https://user-images.githubusercontent.com/116761073/211944992-71f838a8-3dfa-451c-a8f9-ff31f568a486.png)
+# 4. VIDEO
+
+
+# 5. CONCLUSIONES
+
+
+
+# 6. BIBLIOGRAFIA
