@@ -15,7 +15,14 @@
 
 
 ### OBJETIVO GENERAL
-•
+•	Aplicar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+### OBJETIVOS ESPECIFICOS
+•	Analizar los cálculos analíticos y los resultados arrojados por el simulador para así conocer si existe algún margen de error en los cálculos realizados en la práctica.
+
+•	Revisar la potencia del circuito con diferentes valores en la resistencia de la carga para poder así definir en que resistencia se da la máxima transferencia de potencia.
+
+•	Establecer la relación entre la resistencia de fuente y la resistencia de carga en el circuito de la práctica para que reciba la máxima potencia de la fuente de corriente continua.
+
 
 
 
@@ -74,7 +81,13 @@ RL= 4700
 
 
 # 5. CONCLUSIONES
+•	Como conclusión luego de la práctica realizada podemos concluir que, si el valor de la resistencia de carga es igual a la resistencia de fuente se obtiene la mayor transferencia de energía. En la aplicación la resistencia de la fuente, Rs es la resistencia equivalente o resistencia de Thévenin.
 
+•	Tanto la resistencia de carga como la de fuente absorben la potencia total suministrada por una fuente como V_TH.
+
+•	En base a lo experimental y calculado se logró demostrar que para valores muy aproximados a la resistencia interna (1.2 Kohm) se puede llegar a obtener el valor de la potencia máxima así mismo para los valores que van desde la cantidad más baja hacia la cantidad más aproximada a la resistencia interna la potencia tiende a crecer y si la resistencia es mayor a la interna la potencia empieza a descender.
+
+•	De acuerdo con los resultados obtenidos de manera analítica y practica se pudo evidenciar un porcentaje de error mínimo para ciertas resistencias, ya que es por la aproximación de los resultados calculados.
 
 
 # 6. BIBLIOGRAFIA
