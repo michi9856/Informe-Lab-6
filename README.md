@@ -108,6 +108,25 @@ Potencia
 
 ![image](https://user-images.githubusercontent.com/116761073/212224341-08294bb9-6fd0-4007-8ce0-ac33b037df38.png)
 
+3.2.5 Anote los resultados medidos.
+
+![image](https://user-images.githubusercontent.com/116775893/212346432-01bd923e-24f0-4f23-8cb3-02a65352fd48.png)
+
+3.2.6 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+En el circuito dado si se cumplio el Teorema de la maxima transferencia de potencia ya que la maxima potencia calculada se dio entre 1 kΩ y 1.5 kΩ que es igual a la resitencia interna de la fuente que es de 1.2 kΩ
+
+3.2.7 ¿Cuál fue la potencia máxima en RL?
+
+La potencia fue la de 46.48 Watts sin embargo en el laboratorio experimentalmente hablando no arrojo un valor de 0.050 W en la resistencia de 1500 ohmios, pero ya se demostro que el vatímetro del simulador nos arroja calculos erroneos y muy confusos, por lo que debemos basarnos en los datos calculados.
+
+3.2.8 ¿Para qué valor de RL se obtiene la MTP? Es la de 1200 Ω, porque es la resistencia es igual a la de 1200 Ω, ya que como estos 2 valores son iguales el voltaje sera igual al de la fuente, por lo que en la formula de voltaje por intensidad no arroja el valor mas grande de todos.
+
+3.2.9 Grafique la curva Potencia vs RL y comente
+
+![image](https://user-images.githubusercontent.com/116775893/212346669-c8a0c141-6fa0-4a17-b747-16238d62377c.png)
+
+En la gráfica se puede notar que la relación entre potencia y RL forma una parábola hasta llagar a su punto mas alto donde maximiza la trasferencia de potencia (MTP)la resistencia de carga que seía de 1.8 kΩ y 0.045 Watts, sin embargo esto no asegura que tenga una eficiencia máxima.
 
 # 4. VIDEO
 
