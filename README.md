@@ -85,6 +85,30 @@ RL= 3900
 RL= 4700
 
 ![image](https://user-images.githubusercontent.com/116761073/211944992-71f838a8-3dfa-451c-a8f9-ff31f568a486.png)
+
+Potencia
+
+![image](https://user-images.githubusercontent.com/116761073/212223922-0313ef9a-1da6-4ed3-b700-9924eed929ea.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212223980-d5cf137d-1e93-40e6-871d-4941f2fc3a8f.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224027-d24d6d2e-6812-467f-8116-c6312995ca37.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224059-4e2d0ddb-da99-4733-95c4-3579b177982f.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224111-eaf716bb-714c-4d65-b3bb-a6dac5b76dde.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224157-fa83b163-ed31-44f1-9532-76dde705e4b4.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224194-88b10411-7c91-4a5e-9f58-722913cfcf81.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224245-15dbe1fe-6902-4756-8b4b-95c175a99a51.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224294-15174f89-3ae6-4638-830b-3821847c1090.png)
+
+![image](https://user-images.githubusercontent.com/116761073/212224341-08294bb9-6fd0-4007-8ce0-ac33b037df38.png)
+
+
 # 4. VIDEO
 
 
