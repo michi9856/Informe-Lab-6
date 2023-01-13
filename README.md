@@ -148,3 +148,6 @@ CALCULO DE ERRORES
 
 
 # 6. BIBLIOGRAFIA
+• Teorema de transferencia de potencia máxima. La Física y Química. (2021). Retrieved 2 August 2021, from https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/.
+
+• ¿Qué es un vatímetro? (n.d.). Autosolar.es. Retrieved January 14, 2022, from https://autosolar.es/blog/aspectos-tecnicos/que-es-un-vatimetro.
