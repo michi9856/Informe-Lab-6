@@ -128,6 +128,12 @@ La potencia fue la de 46.48 Watts sin embargo en el laboratorio experimentalment
 
 En la gráfica se puede notar que la relación entre potencia y RL forma una parábola hasta llagar a su punto mas alto donde maximiza la trasferencia de potencia (MTP)la resistencia de carga que seía de 1.8 kΩ y 0.045 Watts, sin embargo esto no asegura que tenga una eficiencia máxima.
 
+CALCULO DE ERRORES
+
+![image](https://user-images.githubusercontent.com/116775893/212347059-a23c3df8-0292-40a2-8152-98a27b6d89f7.png)
+![image](https://user-images.githubusercontent.com/116775893/212347114-8b30752a-a535-408f-ae2e-5df50953ec69.png)
+![image](https://user-images.githubusercontent.com/116775893/212347148-b49bff5a-f521-4e70-92fe-763396e2d9eb.png)
+
 # 4. VIDEO
 
 
