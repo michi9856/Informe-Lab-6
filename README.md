@@ -136,7 +136,7 @@ CALCULO DE ERRORES
 
 # 4. VIDEO
 
-
+https://www.youtube.com/watch?v=iOtfPV1wYjc
 # 5. CONCLUSIONES
 •	Como conclusión luego de la práctica realizada podemos concluir que, si el valor de la resistencia de carga es igual a la resistencia de fuente se obtiene la mayor transferencia de energía. En la aplicación la resistencia de la fuente, Rs es la resistencia equivalente o resistencia de Thévenin.
 
